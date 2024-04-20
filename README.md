@@ -4,7 +4,8 @@ This repository contains an Online Food Ordering Website developed using the MER
 The website offers a convenient way for users to order food online from the restaurant at the comfort of their home.
 <br> 
 
-The project team consisted of 5 members. My responsibilities included frontend development and database management.
+- **Team Members :** 5
+- **My Role :** Frontend Development and Database Management
 
 <br>
 
