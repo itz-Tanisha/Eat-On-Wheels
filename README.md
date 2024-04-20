@@ -6,9 +6,9 @@ The website offers a convenient way for users to order food online from the rest
 <br>
 
 ## Technologies Used
-**Frontend:** React.js, HTML, CSS, JavaScript <br>
-**Backend:** Node.js, Express <br>
-**Database:** MongoDB <br>
+- **Frontend:** React.js, HTML, CSS, JavaScript <br>
+- **Backend:** Node.js, Express <br>
+- **Database:** MongoDB <br>
 <br>
 
 ## Key Features 
