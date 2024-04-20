@@ -7,7 +7,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "cd backend && npm start",
+    "start": "cd frontend && npm install && npm run build && cd ../backend && npm install && npm start",
     "prebuild": "cd backend && npm install & cd frontend && npm install",
     "build": "cd frontend && npm run build",
     "postbuild": "mv -f frontend/build backend/src/public"
