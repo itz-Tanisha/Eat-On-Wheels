@@ -22,7 +22,7 @@ The website offers a convenient way for users to order food online from the rest
 
 <br>
 
-### Start the app
+## Start the app
 
 ### Frontend
 
